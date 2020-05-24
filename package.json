@@ -1,0 +1,19 @@
+{
+  "name": "automaticdownload",
+  "version": "1.0.0",
+  "description": "The script I used to download my data from the Automatic automotive ODB II adapter to local files.",
+  "main": "downloadAutomaticData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j2inet/AutomaticDownload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j2inet/AutomaticDownload/issues"
+  },
+  "homepage": "https://github.com/j2inet/AutomaticDownload#readme"
+}
